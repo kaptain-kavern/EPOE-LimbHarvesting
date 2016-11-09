@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>EPOE - Limb-Harvesting enabler</name>
+  <author>KapTaiN_KaVerN</author>
+  <url></url>
+  <targetVersion>0.15.0</targetVersion>
+  <description>
+    *******************************************************************************************
+    ******************* EPOE - Limb Harvesting Enabler *****************************
+    ***
+    ******
+    ************
+    * Re-add the ability to remove arms and legs on colonists/prisonners
+    * Surgery that remove arm or leg will give the natural limb back again
+    ************
+    ******
+    ***
+    ******** YOU MUST PUT THIS MOD AFTER EPOE IN MOD ORDER ********
+    **********************************************************************************************</description>
+</ModMetaData>
